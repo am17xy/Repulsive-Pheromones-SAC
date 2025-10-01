@@ -7,5 +7,8 @@ The file included this code was used in replacement of morl_baselines/single_pol
 
 The MORL/D implementation from MORL-Baselines was used, and can be found here: https://github.com/LucasAlegre/morl-baselines/blob/main/morl_baselines/multi_policy/morld/morld.py.
 
+## License
+This project uses code from MORL-Baselines (MIT License) and is modified under GPL v3.0. Please refer to the License file for full details.
+
 ## References
 [1] Felten, F., Alegre, L. N., Nowé, A., Bazzan, A. L. C., Talbi, E. G., Danoy, G., & Silva, B. C. da. (2023). A Toolkit for Reliable Benchmarking and Research in Multi-Objective Reinforcement Learning. In: _Proceedings of the 37th Conference on Neural Information Processing Systems (NeurIPS 2023)_.
